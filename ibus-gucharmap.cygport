@@ -2,7 +2,7 @@ inherit python gnome2
 
 NAME="ibus-gucharmap"
 VERSION=1.4.0
-RELEASE=1
+RELEASE=2
 CATEGORY="X11"
 SUMMARY="IBus Unicode character map input method engine"
 DESCRIPTION="IBus is an Intelligent Input Bus. It is a new input framework
