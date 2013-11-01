@@ -9,6 +9,4 @@ DESCRIPTION="IBus is an Intelligent Input Bus. It is a new input framework
 for X11 systems. It provides full featured and user friendly input method user
 interface. It also may help developers to develop input method easily."
 HOMEPAGE="https://github.com/ueno/ibus-charmap"
-SRC_URI="https://github.com/downloads/ueno/ibus-charmap/${P}.tar.gz"
-
-CYGCONF_ARGS="--libexecdir=/usr/lib/ibus"
+SRC_URI="https://github.com/downloads/ueno/ibus-charmap/${NAME}-${VERSION}.tar.gz"
